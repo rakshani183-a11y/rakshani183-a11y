@@ -9,6 +9,7 @@
 I’m passionate about building modern, responsive, and user-friendly web applications.
 Currently exploring full-stack development while improving my design and problem-solving skills
 
+---
 
 🚀 About Me
 
@@ -25,8 +26,9 @@ Currently exploring full-stack development while improving my design and problem
 
 
 
-<img width="1408" height="768" alt="dream" src="https://github.com/user-attachments/assets/a24509f6-e6b1-42a7-92fd-d146bdef0182" />
+<img  width="800" height="768" alt="dream" src="https://github.com/user-attachments/assets/a24509f6-e6b1-42a7-92fd-d146bdef0182" />
 
+---
 
 🛠️ Tech Stack
 
@@ -37,18 +39,8 @@ Currently exploring full-stack development while improving my design and problem
 <img src="https://img.shields.io/badge/CSS3-d9a7ff?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-cfa0ff?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-e6ccff?style=for-the-badge&logo=react&logoColor=black"/>
-</p>⚙️ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-b19cd9?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-d8b4f8?style=for-the-badge&logo=express&logoColor=black"/>
-</p>🗄️ Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-cdb4db?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-bde0fe?style=for-the-badge&logo=mongodb&logoColor=black"/>
 </p>
-
+---
 
 ⚙️ Backend
 
@@ -57,12 +49,17 @@ Currently exploring full-stack development while improving my design and problem
 <img src="https://img.shields.io/badge/Express.js-d8b4f8?style=for-the-badge&logo=express&logoColor=black"/>
 </p>
 
+----
+
 🗄️ Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-cdb4db?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-bde0fe?style=for-the-badge&logo=mongodb&logoColor=black"/>
 </p>
+
+
+---
 
 🎨 UI/UX & Design
 
@@ -71,6 +68,8 @@ Currently exploring full-stack development while improving my design and problem
 <img src="https://img.shields.io/badge/Canva-8cd3ff?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Responsive_Design-a2d2ff?style=for-the-badge&logo=responsive-design&logoColor=black"/>
 </p>
+
+---
 
 🧠 Currently Learning
 
@@ -81,6 +80,8 @@ Currently exploring full-stack development while improving my design and problem
 <img src="https://img.shields.io/badge/Korean_Language-0047a0?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
+---
+
 ⚡ Tools I Use Daily
 
 <p>
@@ -90,12 +91,15 @@ Currently exploring full-stack development while improving my design and problem
 <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+---
 
 📫 Connect With Me
 
 📧 Email: rakshani183@gmail.com
 
 🌐 Portfolio:  https://rakshitha.onrender.com/
+
+---
 
 ### ✨ Fun Fact
 > **💜 I believe creativity + technology = powerful experiences**
